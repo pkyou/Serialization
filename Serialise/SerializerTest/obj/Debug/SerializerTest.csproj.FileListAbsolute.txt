@@ -1,0 +1,8 @@
+D:\Git\Serialization\Serialise\SerializerTest\bin\Debug\SerializerTest.dll
+D:\Git\Serialization\Serialise\SerializerTest\bin\Debug\SerializerTest.pdb
+D:\Git\Serialization\Serialise\SerializerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Git\Serialization\Serialise\SerializerTest\bin\Debug\Serializer.dll
+D:\Git\Serialization\Serialise\SerializerTest\bin\Debug\Serializer.pdb
+D:\Git\Serialization\Serialise\SerializerTest\obj\Debug\SerializerTest.csprojResolveAssemblyReference.cache
+D:\Git\Serialization\Serialise\SerializerTest\obj\Debug\SerializerTest.dll
+D:\Git\Serialization\Serialise\SerializerTest\obj\Debug\SerializerTest.pdb

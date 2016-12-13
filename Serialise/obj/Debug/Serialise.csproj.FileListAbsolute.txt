@@ -1,1 +1,14 @@
 D:\Git\Serialization\Serialise\bin\Debug\Serialise.exe.config
+D:\Git\Serialization\Serialise\bin\Debug\Serialise.exe
+D:\Git\Serialization\Serialise\bin\Debug\Serialise.pdb
+D:\Git\Serialization\Serialise\obj\Debug\Serialise.csprojResolveAssemblyReference.cache
+D:\Git\Serialization\Serialise\obj\Debug\MainWindow.g.cs
+D:\Git\Serialization\Serialise\obj\Debug\App.g.cs
+D:\Git\Serialization\Serialise\obj\Debug\Serialise_MarkupCompile.cache
+D:\Git\Serialization\Serialise\obj\Debug\Serialise_MarkupCompile.lref
+D:\Git\Serialization\Serialise\obj\Debug\MainWindow.baml
+D:\Git\Serialization\Serialise\obj\Debug\Serialise.g.resources
+D:\Git\Serialization\Serialise\obj\Debug\Serialise.Properties.Resources.resources
+D:\Git\Serialization\Serialise\obj\Debug\Serialise.csproj.GenerateResource.Cache
+D:\Git\Serialization\Serialise\obj\Debug\Serialise.exe
+D:\Git\Serialization\Serialise\obj\Debug\Serialise.pdb

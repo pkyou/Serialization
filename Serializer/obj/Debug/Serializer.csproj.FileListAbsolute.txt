@@ -1,0 +1,5 @@
+D:\Git\Serialization\Serializer\bin\Debug\Serializer.dll
+D:\Git\Serialization\Serializer\bin\Debug\Serializer.pdb
+D:\Git\Serialization\Serializer\obj\Debug\Serializer.csprojResolveAssemblyReference.cache
+D:\Git\Serialization\Serializer\obj\Debug\Serializer.dll
+D:\Git\Serialization\Serializer\obj\Debug\Serializer.pdb
